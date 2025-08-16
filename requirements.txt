@@ -1,0 +1,4 @@
+fastmcp==2.11.3
+httpx
+uv
+cyclopts
