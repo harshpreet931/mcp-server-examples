@@ -1,4 +1,4 @@
-fastmcp==2.11.3
+fastmcp
 httpx
 uv
 cyclopts
