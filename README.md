@@ -1,10 +1,10 @@
-# 🚀 FastMCP Server Examples: Your Launchpad for AI Tools
+# MCP Server Examples
 
 A collection of plug-and-play server examples for the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/), built with the powerful [FastMCP](https://gofastmcp.com/) framework. Whether you're building for Claude, Gemini, or any other MCP-compatible client, this repo gives you the foundation you need.
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name.svg?style=social&label=Star)](https://github.com/your-username/your-repo-name)
+[![GitHub stars](https://img.shields.io/github/stars/harshpreet931/mcp-server-examples.svg?style=social&label=Star)](https://github.com/harshpreet931/mcp-server-examples)
 
 ---
 
@@ -35,8 +35,8 @@ This repository is designed to be the fastest way to get started with building y
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/fastmcp-server-examples.git
-    cd fastmcp-server-examples
+    git clone https://github.com/harshpreet931/mcp-server-examples.git
+    cd mcp-server-examples
     ```
 
 2.  **Set up the environment:**
