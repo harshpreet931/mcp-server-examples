@@ -15,6 +15,11 @@ def api_fetch(url: str) -> str:
     response = requests.get(url)
     return response.text if response.status_code == 200 else f"Error fetching {url}: {response.status_code}"
 
+@mcp.tool
+def add(a: int, b: int) -> int:
+    """Adds two numbers."""
+    return a + b
+
 if __name__ == "__main__":
     # Run the server with StreamableHTTP transport
     mcp.run(transport="http", host="127.0.0.1", port=8000)
